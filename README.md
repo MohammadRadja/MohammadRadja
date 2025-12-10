@@ -17,7 +17,7 @@ Hi, I'm Mohammad Radja
 ## 🚀 About Me
 
 🎓 **Education**: Final Year Student at Global Institute OF Technology & Business<br>
-💻 **Experience**: 2 years in Fullstack Web & Mobile Development<br>
+💻 **Experience**: 4 years in Fullstack Web & Mobile Development<br>
 🌱 **Currently Learning**: Advanced Javascript & PHP Frameworks<br>
 👨‍💻 **Goal**: To become a leading contributor in open-source projects<br> 
 ✉️ **Contact Me**: <a href="mailto:radja.amri28@gmail.com" target="_blank">Email me</a>
